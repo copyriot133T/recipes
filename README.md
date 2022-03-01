@@ -1,0 +1,1 @@
+This Project is my first HTML Project. I working through TOP (The Odin Project) to become a good web / frontend developer or just develop nice frontend things in my company.
